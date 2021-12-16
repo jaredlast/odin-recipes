@@ -1,2 +1,2 @@
 # odin-recipes
-recipe website
+recipe website comprising of basic hypertext links, images, and both ordered and unordered lists.
