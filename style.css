@@ -12,10 +12,19 @@ h1 {
     font-family: 'Lucida Sans', sans-serif;
     color: blueviolet;
 }
-.title-heading,
-.recipe-list {
+.title-heading {
     text-align: center;
 }
 .recipe-list {
     background-color: olivedrab;
+    display: flex;
+    justify-content: space-evenly;
+    width: auto;
+    height: 50px;
+}
+.li {
+    flex: 2 1 auto;
+    width: 200px;
+    
+
 }
